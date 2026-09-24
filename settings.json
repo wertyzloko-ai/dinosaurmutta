@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "DinoSaurMuttaBot24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "DinosaurMuttaGang.aternos.me",
+    "port": 45630,
     "version": "1.20.1",
     "try-creative": false
   },
